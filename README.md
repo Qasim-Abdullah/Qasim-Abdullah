@@ -1,18 +1,11 @@
 # Hi 👋, I'm Qasim Abdullah
-
-🎓 **MSc Web Engineering Student at TU Chemnitz**
-💻 Software Engineer experienced in **Python backend development and modern web technologies**.
-🚀 Passionate about building **scalable web platforms, APIs, and interactive user interfaces.**
-
 ---
+🧭 I’m currently focused on deepening my expertise in modern web engineering and scalable backend systems, working with technologies like Python (Django, FastAPI), React, and REST APIs.
+At the same time, I’m exploring distributed systems, web performance optimization, and modern frontend architectures to build efficient, scalable, and user-friendly web platforms.
 
-## 🔎 About Me
+👯 I’m looking to collaborate on real-world web engineering and full-stack development projects — especially those involving scalable backend architectures, modern frontend frameworks like React/Next.js, API-driven platforms, and innovative web applications such as geospatial systems or immersive web experiences.
 
-* 🎓 Currently pursuing **MSc in Web Engineering at Technische Universität Chemnitz**
-* 💼 Professional experience as a **Software Engineer working with Python, Django, FastAPI, and React**
-* 🌐 Interested in **modern web architectures, distributed systems, and e-commerce technologies**
-* 🧠 Focused on **building scalable backend services and responsive frontend applications**
-* 🤝 Open to collaborating on **web engineering, full-stack development, and research-driven projects**
+💬 Ask me about Python Backend Development | Django & FastAPI | React & Next.js | REST API Design | Web Application Architecture | PostgreSQL & Database Design | Full-Stack Web Development | Distributed Web Systems
 
 ---
 
