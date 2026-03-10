@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋, I'm Qasim Abdullah
 
-<!--
-**Qasim-Abdullah/Qasim-Abdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MSc Web Engineering Student at TU Chemnitz**
+💻 Software Engineer experienced in **Python backend development and modern web technologies**.
+🚀 Passionate about building **scalable web platforms, APIs, and interactive user interfaces.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔎 About Me
+
+* 🎓 Currently pursuing **MSc in Web Engineering at Technische Universität Chemnitz**
+* 💼 Professional experience as a **Software Engineer working with Python, Django, FastAPI, and React**
+* 🌐 Interested in **modern web architectures, distributed systems, and e-commerce technologies**
+* 🧠 Focused on **building scalable backend services and responsive frontend applications**
+* 🤝 Open to collaborating on **web engineering, full-stack development, and research-driven projects**
+
+---
+
+
+## 🛠 Tech Stack
+
+### Programming Languages
+
+Python • JavaScript • TypeScript • SQL
+
+### Frontend Development
+
+React • Next.js • HTML • CSS • Responsive Web Design
+
+### Backend Development
+
+Django • FastAPI • REST API Development
+
+### Databases
+
+PostgreSQL • MySQL • MongoDB
+
+
+## 📫 Connect With Me
+
+📧 **Email:** [qasimrana799@gmail.com](mailto:qasimrana799@gmail.com)
+
+💼 LinkedIn: *([Qasim Abdullah](https://www.linkedin.com/in/qasim-abdullah/))*
+
+---
+
+
+
+## ⚡ Fun Fact
+
+I enjoy combining **AI, web technologies, and immersive environments** to build next-generation digital learning experiences.
